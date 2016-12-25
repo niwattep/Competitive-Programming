@@ -1,0 +1,3 @@
+Niwat	Jansutep	500000	true
+Phakin	Ophasirikosit	500000	true
+Nattapass	Khuphasuk	1000	false
